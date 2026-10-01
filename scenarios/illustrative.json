@@ -1,0 +1,11 @@
+{
+  "volume": 10000,
+  "prevalence": 0.01,
+  "missed_defect_cost": 100.0,
+  "false_reject_cost": 5.0,
+  "review_cost": 1.0,
+  "review_capacity": 150,
+  "reviewer_sensitivity": 0.95,
+  "reviewer_specificity": 0.99,
+  "policy": "review_first"
+}
